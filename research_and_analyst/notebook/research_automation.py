@@ -69,7 +69,7 @@ class Analyst(BaseModel):
 
 # %%
 Analyst(
-    name="sunny savita",
+    name="Dhirendra Soni",
     role="genai eng",
     affiliation="AI Research LAB",
     description="I am genai developer as well as mentor"
@@ -77,7 +77,7 @@ Analyst(
 
 # %%
 analyst = Analyst(
-    name="sunny savita",
+    name="Dhirendra Soni",
     role="genai eng",
     affiliation="AI Research LAB",
     description="I am genai developer as well as mentor"
